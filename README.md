@@ -2,20 +2,21 @@
 
 My name is Hassan. A passionate game developer from Sweden, with years of Game development experience.
 
-[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rambo4you)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambo4you&layout=compact)
-
-<h1>💻 Tech Stack:</h1>
-<a href="#"><img src="https://camo.githubusercontent.com/7833afe5bfd8fac0b864b45dd5b33fe9621e286fe60aa4a6d0f1d7a1de4b168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465" alt="Unity" data-canonical-src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" style="max-width: 100%;">
-</a>
-  <a href="#"><img src="https://camo.githubusercontent.com/cea07de9c00c18a78144b1cecb66fb54844f3ad97401458e4a0ef7c741271ad8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c656e6465722d2532334635373932412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626c656e646572266c6f676f436f6c6f723d7768697465" alt="Blender" data-canonical-src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white" style="max-width: 100%;"></a>
-  </a>
-Maya
-3Ds Max
-Zbrush
-
 - 🌱 I’m currently managing teams of Tech Artist and expanding my knowledge base
 - 💬 Ask me about optimization
+
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
+
+## 💻 Tech Stack
+
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rambo4you&theme=radical)
+
+
 
 <!--
 **Rambo4you/Rambo4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
