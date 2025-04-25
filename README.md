@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋👋👋
+
+- 🌱 I’m currently learning shaders
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about optimization
 
 <!--
 **Rambo4you/Rambo4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
