@@ -1,6 +1,8 @@
 ## Hi there 👋👋👋
 
-- 🌱 I’m currently learning shaders
+My name is Hassan. A passionate game developer from Sweden, with years of Game development experience.
+
+- 🌱 I’m currently managing teams of Tech Artist and expanding my knowledge base
 - 💬 Ask me about optimization
 
 <!--
