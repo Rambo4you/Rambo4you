@@ -1,7 +1,6 @@
 ## Hi there 👋👋👋
 
 - 🌱 I’m currently learning shaders
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about optimization
 
 <!--
