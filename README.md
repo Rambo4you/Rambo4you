@@ -1,4 +1,4 @@
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambo4you&include_all_commits=true&count_private=false)
+[![Hassan's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rambo4you?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
 
 ## 💻 Tech Stack
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Simple stats
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambo4you&include_all_commits=true&count_private=false)
 
 This years commits
 [![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
