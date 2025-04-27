@@ -1,4 +1,4 @@
-[![Hassan's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rambo4you?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+![Hassan's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rambo4you?cardType=level&preferLogin=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
 
 ## 💻 Tech Stack
