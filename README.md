@@ -1,5 +1,5 @@
-//![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambo4you&theme=default&&include_all_commits=true&count_private=false)
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
+<!-- ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambo4you&theme=default&&include_all_commits=true&count_private=false)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambo4you)](https://github.com/Rambo4you/github-readme-stats)
 
 ## 💻 Tech Stack
 
